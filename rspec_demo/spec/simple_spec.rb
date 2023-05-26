@@ -12,3 +12,4 @@ describe "#color_symbol" do
     expect(color_symbol(:white)).to be_instance_of(Symbol)
   end
 end
+          
